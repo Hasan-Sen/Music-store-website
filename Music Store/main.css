@@ -1,0 +1,44 @@
+body{
+    background-color: #2e2e2e;
+  
+}
+
+.bg-nav{
+    background-color: rgba(10, 10, 10, 0.842);
+   
+}
+.bg-nav .nav-link{
+    color: white;
+}
+.bg-nav .navbar-brand{
+    color: rgb(207, 8, 8);
+}
+.merhaba{
+    color:rgb(209, 18, 18);
+    margin-top:50px;
+    margin-bottom: 75px;
+}
+.line{
+list-style-type: none;
+margin-top: 50px;
+padding: 0px;
+}
+.h2-margin{
+    margin-top: 50px;
+    color: rgb(194, 194, 11);
+   
+}
+.p-margin{
+    margin-bottom: 50px;
+}
+.card{
+    margin:20px;
+}
+.row{
+    justify-content: center;
+}
+.h2-vm{
+    color: rgb(194, 194, 11);
+    margin-bottom: 25px;
+}
+
