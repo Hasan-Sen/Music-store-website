@@ -1,2 +1,2 @@
-# Music-story-website
+# Music-store-website
 Kodluyoruz/ Bootstrap Ödev-1
